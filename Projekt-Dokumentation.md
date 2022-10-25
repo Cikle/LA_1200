@@ -41,10 +41,8 @@ Wir programmieren einen Vokabelübersetzer in Fremdsprachen.
 |      |              |         |                   |
 
 
-### 1.4 Diagramme
-
-
-
+### 1.4 Diagrame
+![Wörtliprogramm](https://user-images.githubusercontent.com/110893302/197729871-087caa44-63d1-4f8c-bafc-420b917b1983.png)
 
 ## 2 Planen
 
