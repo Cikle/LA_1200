@@ -21,28 +21,31 @@ Wir programmieren einen Vokabelübersetzer in Fremdsprachen.
 | ---- | --------------- | ---- | ---------------------------------- |
 | 1    |  Muss               |Funktional      | Als ein Spieler möchte ich, dass mich das Programm abfragt, welche Sprache ich möchte. |
 | 2    |  Muss               |Funktional      | Als ein Spieler möchte ich, dass ich das Wort erneut eingeben kann, wenn meine Antwort falsch ist. |     
-| 3    |  Muss               |Funktional      | Als ein Spieler möchte ich, dass ich nicht nur von Deutsch zu Fremdsprache, sondern auch umgekehrt übersetzen kann. |                                    
+| 3    |  Muss               |Funktional      | Als ein Spieler möchte ich, dass ich nicht nur von Deutsch zu Fremdsprache, sondern auch umgekehrt übersetzen kann.  |                                    
 | 4    |  Muss               |Qualität        | Als ein Spieler möchte ich, dass bei 3 gescheiterten Versuchen automatisch die richtige Lösung erscheint. |   
 | 5    |  Muss               |Randbedingung   | Als ein Spieler möchte ich, dass das Programm in C# geschrieben wird. |
 | 6    |  Kann               |Funktional      | Als ein Spieler möchte ich, dass ich, sobald ich alle Wörter übersetzt habe, meinen Score sehen kann. |
 | 7    |  Kann               |Funktional      | Als ein Spieler möchte ich, dass mich das Programm am Ende einer Runde abfragt, ob ich noch eine Runde spielen will. |
+|      |              |         |                   |
 
 ### 1.3 Testfälle
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-|      |              |         |                   |
-|      |              |         |                   |       
-|      |              |         |                   |       
-|      |              |         |                   |
-|      |              |         |                   |
-|      |              |         |                   |
-|      |              |         |                   |
+| 1.1  | Das Programm ist gestartet und fragt den User nach der ausgewählten Sprache |Englisch |   |
+| 2.1  | Das Programm fragt den User nach einer erneuten Eingabe | Tabe | Bitte geben Sie das Wort erneut ein |       
+| 3.1  | Das Programm wechselt von Deutsch-Englisch zu Englisch-Deutsch| Umkehren | Die Sprache wurde umgekehrt |       
+| 4.1  | Das Programm hat 3 fehleingaben bekommen | Tabe Tabl taleb  | Die Richtige Eingabe währe : Table   |
+| 5.1  | Das Programm wird in C# geschrieben |         |                   |
+| 6.1  | Das Programm gibt einen Score aus    | Table  | Ihr derzeitiger score liegt bei ....|
+| 7.1  | Das Programm fragt ob der User nochmal spielen will   |  ja/nein  |  Wollen Sie erneut spielen?  |
 |      |              |         |                   |
 
 
-### 1.4 Diagrame
-![Wörtliprogramm](https://user-images.githubusercontent.com/110893302/197729871-087caa44-63d1-4f8c-bafc-420b917b1983.png)
+### 1.4 Diagramme
+
+
+
 
 ## 2 Planen
 
