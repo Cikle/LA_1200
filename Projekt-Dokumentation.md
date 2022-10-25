@@ -6,26 +6,29 @@ Cyril Lutziger
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|       |         |                                                              |
+| 25.10.2022      | 0.0.1        |                                                              |
 |       |         |                                                              |
 
 ## 1 Informieren
 
 ### 1.1 Ihr Projekt
 
-
+Wir programmieren einen Vokabelübersetzer in Fremdsprachen.
 
 ### 1.2 User Stories
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |                 |      |                                    |
-| 2    |                 |      |                                    |
-| 3    |                 |      |                                    |
-| 4    |                 |      |                                    |
-| 5    |                 |      |                                    |
+| 1    |  Muss               |Funktional      | Als ein Spieler möchte ich, dass mich das Programm abfragt, welche Sprache ich möchte. |
 
+| 2    |  Muss               |Funktional      | Als ein Spieler möchte ich, dass ich trotzdem weiterspielen kann, selbst wenn meine Antwort falsch ist. |                         
+| 3    |  Muss               |Funktional      | Als ein Spieler möchte ich, dass ich nicht nur von Deutsch zu Fremdsprache, sondern auch umgekehrt übersetzen kann. |                                    
+| 4    |  Muss               |Qualität        | Als ein Spieler möchte ich, dass bei 3 gescheiterten Versuchen automatisch die richtige Lösung erscheint. |                                  
+| 5    |  Muss               |Randbedingung   | Als ein Spieler möchte ich, dass das Programm in C# geschrieben wird. |
 
+| 6    |  Kann               |Funktional      | Als ein Spieler möchte ich, dass ich, sobald ich alle Wörter übersetzt habe, meinen Score sehen kann. |
+
+| 7    |  Kann               |Funktional      | Als ein Spieler möchte ich, dass mich das Programm am Ende einer Runde abfragt, ob ich noch eine Runde spielen will. |
 
 ### 1.3 Testfälle
 
