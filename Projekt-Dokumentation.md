@@ -43,7 +43,7 @@ Wir programmieren einen Vokabelübersetzer in Fremdsprachen.
 
 
 ### 1.4 Diagramme
-![Wörtliprogramm](https://user-images.githubusercontent.com/110893288/199201748-bc23c79d-41f0-413a-9f05-a80301698ae5.png)
+<img src="https://user-images.githubusercontent.com/110893288/199201748-bc23c79d-41f0-413a-9f05-a80301698ae5.png" width="450">
 
 
 
