@@ -21,7 +21,8 @@ Wir programmieren einen Vokabelübersetzer in Fremdsprachen.
 | ---- | --------------- | ---- | ---------------------------------- |
 | 1    |  Muss               |Randbedingung   | Das Programm wird in C# geschrieben.|
 | 2    |  Muss               |Funktional      | Als ein User möchte ich, dass ich das Wort erneut eingeben kann, wenn meine Antwort falsch ist. |     
-| 3    |  Muss               |Funktional      | Als ein User möchte ich, dass ich nicht nur von Deutsch zu Fremdsprache, sondern auch umgekehrt übersetzen kann.|       |4|Muss|Funktional|Als User möchte ich meine Wörterliste erstellen können und als datei gespeichert haben.|
+| 3    |  Muss               |Funktional      | Als ein User möchte ich, dass ich nicht nur von Deutsch zu Fremdsprache, sondern auch umgekehrt übersetzen kann.|
+|4|Muss|Funktional|Als User möchte ich meine Wörterliste erstellen können und als datei gespeichert haben.|
 |5|Muss|Funktional|Als User möchte ich meine eigene Wörterliste in das Programm einfügen können und damit lernen.|
 | 6   |  Muss               |Qualität        | Als ein User möchte ich, dass bei 3 gescheiterten Versuchen automatisch die richtige Lösung erscheint. |   
 | 7    |  Kann               |Funktional      | Als ein User möchte ich, dass ich, sobald ich alle Wörter übersetzt habe, meinen Score sehen kann. |
