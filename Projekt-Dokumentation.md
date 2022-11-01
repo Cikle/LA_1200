@@ -2,7 +2,7 @@
 # Projekt-Dokumentation
 
 
-Cyril Lutziger
+Cyril Lutziger, Simon Veljkovic, Samuel Lucena, Julius Burlet, Timo Goedertier
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
