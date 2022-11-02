@@ -26,7 +26,7 @@ Wir programmieren einen Vokabelübersetzer in Fremdsprachen.
 |5|Muss|Funktional|Als User möchte ich meine eigene Wörterliste in das Programm einfügen können und damit lernen.|
 | 6   |  Muss               |Qualität        | Als ein User möchte ich, dass bei 3 gescheiterten Versuchen automatisch die richtige Lösung erscheint. |   
 | 7    |  Kann               |Funktional      | Als ein User möchte ich, dass ich, sobald ich alle Wörter übersetzt habe, meinen Score sehen kann. |
-|      |              |         |                   |
+|8|Muss|Funktional|Ich möchte als User die Datei bearbeiten können wenn sie eingelesen wurde.|
 
 ### 1.3 Testfälle
 
