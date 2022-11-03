@@ -106,7 +106,6 @@
                             //Show all .csv files in the directory
                             foreach (var file in Directory.GetFiles(path, "*.csv").Select(Path.GetFileName))
                             {
-
                                 files.Add(file);
                                 Console.WriteLine($"{i + 1}: {files[i]}");
                                 i++;
@@ -124,7 +123,7 @@
                             else if (Convert.ToInt32(answer) <= files.Count() && Convert.ToInt32(answer) > 0)
                             {
                                 loop0 = true;
-                                path = files[Convert.ToInt32(answer) - 1];
+                                path += @"\" + files[Convert.ToInt32(answer) - 1];
                                 break;
                             }
                             else
