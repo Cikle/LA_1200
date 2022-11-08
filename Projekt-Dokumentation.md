@@ -28,6 +28,7 @@ Wir programmieren einen Vokabelübersetzer in Fremdsprachen.
 | 7    |  Kann               |Funktional      | Als ein User möchte ich, dass ich, sobald ich alle Wörter übersetzt habe, meinen Score sehen kann. |
 |8|Muss|Funktional|Ich möchte als User die Datei bearbeiten können wenn sie eingelesen wurde.|
 
+
 ### 1.3 Testfälle
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
