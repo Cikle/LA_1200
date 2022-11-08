@@ -20,7 +20,11 @@ namespace Chameleon
             //Splits the contents of the files with "," into main- and secondlanguage 
             for (int i = 0; i < lines.Length; i++)
             {
-                string[] items = lines[i].Split(",");
+                if (lines[i] == "")
+                {
+                    break;
+                }
+                string[] items = lines[i].Split(',');
                 mainlanguage.Add(items[0]);
                 secondLanguage.Add(items[1]);
             }
