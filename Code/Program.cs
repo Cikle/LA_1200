@@ -5,6 +5,8 @@
     {
         static void Main()
         {
+            // Makes a new variable for the Aksing class
+            Asking asking = new();
             //Makes a new variable for the MakeList class
             MakeList list = new();
             //Makes a new variable for the LoadFile class
@@ -23,9 +25,17 @@
                 list.Write();
                 list.ListSaver();
             }
-
-
-
+            if (asking.Choosing() == 1)
+            {
+                asking.MainToForign(load.mainlanguage, load.secondLanguage);
             }
+            else
+            {
+                asking.ForignToMain(load.mainlanguage, load.secondLanguage);
+            }
+            asking.DisplayPoints();
+
+
         }
     }
+}
