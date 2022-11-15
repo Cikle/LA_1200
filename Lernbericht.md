@@ -1,4 +1,5 @@
 
+
 # Lern-Bericht
 Team Chameleon (Lutziger, Goedetier, Burlet, Lucena, Veljkovic)
 
@@ -8,7 +9,7 @@ In Unserem Projekt ging es darum, wie man Files in Codes einfügt.
 
 ## Was habe ich gelernt?
 
-Wir haben gelernt, wie man selber erstellte Files im Code einfügt. In diesem Projekt haben wir Files erstellt, welche Wörter auf Deutsch und Englisch beinhaltet und wir damit ein Übersetzungsprogramm erstellen können.
+Wir haben gelernt, wie man selbst erstellte Files im Code einfügt. In diesem Projekt haben wir Files erstellt, welche Wörter auf Deutsch und Englisch beinhaltet und wir damit ein Übersetzungsprogramm erstellen können.
 
 ## Beschreibung
 
@@ -206,9 +207,10 @@ Ein Teil des Codes zeigt an, wo das File zu finden ist. Das Programm überprüft
 Text: Fasst die wichtigsten Teile des Codes und die Zusammenhänge zwischen ihnen zusammen.
 Code Snippet: Stellt alle Begrifflichkeiten und Funktionen des Codes dar.
 Bild: Zeigt alle geladenen Files in der Console.
-# Reflektion zum Arbeitsprozess
+# Reflexion zum Arbeitsprozess
 
 Was gut lief: Wir konnten ziemlich schnell alle Punkte abarbeiten und uns sehr einfach an unsere Pläne halten.
-Was nicht gut lief: Da zu Beginn des Projekts zwei Leute gefehlt haben, enstanden sehr schnell Konflikte, wodurch wir sehr verspätet angefangen haben zu programmieren.
+Was nicht gut lief: Da zu Beginn des Projekts zwei Leute gefehlt haben, entstanden rasch Konflikte, wodurch wir sehr verspätet angefangen haben zu programmieren.
 
 **VBV**: Wir sollten das nächste Mal besser untereinander kommunizieren und bei Aufteilungen und Meinungen besseres Management anwenden.
+
