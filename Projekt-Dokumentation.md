@@ -93,12 +93,22 @@ Total:
 
 ### 5.1 Testprotokoll
 
-|  TC-№ | Datum | Resultat | Tester |
+|  TC-№ | Datum   | Resultat | Tester |
 | ----- | -------- | ------ | ------- |
-|       |          |        |         |
-|       |          |        |         |
-|       |          |        |         |
+|1.1    |15.11.2022|OK      |J. Burlet|
+|1.2    |15.11.2022|OK      |T.Goedertier|
+|1.3    |15.11.2022|OK      |T.Goedertier|
+|1.4    |15.11.2022|OK      |J. Burlet|
+|1.5    |15.11.2022|OK      |J. Burlet|
+|2.1    |15.11.2022|OK      |J. Burlet|
+|2.2    |15.11.2022|OK      |J. Burlet|
+|2.3    |15.11.2022|OK      |J. Burlet|
+|3.1    |15.11.2022|OK      |J. Burlet|
+|4.1    |15.11.2022|OK      |T.Goedertier|
+|5.1    |15.11.2022|OK      |J. Burlet|
+|6.1    |15.11.2022|OK      |T.Goedertier|
 
+Alle Tests verliefen genau nach Plan.
 
 
 ## 6 Auswerten
