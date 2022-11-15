@@ -8,7 +8,7 @@ In Unserem Projekt geht es darum, ein Program zu erstellen, mit dem man Voci von
 
 ## Was habe ich gelernt?
 
-✍️ Beschreiben Sie in einem Satz **eine** Sache, die Sie bei diesem Projekt gelernt haben und die Sie in diesem Lern-Bericht dokumentieren.
+Wir haben gelernt, wie man selber erstellte Files im Code einfügt. In diesem Projekt haben wir Files erstellt, welche Wörter auf Deutsch und Englisch
 
 ## Beschreibung
 
