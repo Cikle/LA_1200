@@ -24,6 +24,7 @@
             {
                 list.Write();
                 list.ListSaver();
+                return;
             }
             if (asking.Choosing() == 1)
             {
