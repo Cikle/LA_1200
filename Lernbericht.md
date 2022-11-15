@@ -205,7 +205,7 @@ Ein Teil des Codes zeigt an, wo das File zu finden ist. Das Programm überprüft
 
 Text: Fasst die wichtigsten Teile des Codes und die Zusammenhänge zwischen ihnen zusammen.
 Code Snippet: Stellt alle Begrifflichkeiten und Funktionen des Codes dar.
-
+Bild: Zeigt alle geladenen Files in der Console.
 # Reflektion zum Arbeitsprozess
 
 Was gut lief: Wir konnten ziemlich schnell alle Punkte abarbeiten und uns sehr einfach an unsere Pläne halten.
