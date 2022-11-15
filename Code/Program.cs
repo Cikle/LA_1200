@@ -34,8 +34,7 @@
                 asking.ForignToMain(load.mainlanguage, load.secondLanguage);
             }
             asking.DisplayPoints();
-
-            //Testing if Simon sees this
+            
         }
     }
 }
