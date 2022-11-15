@@ -41,7 +41,9 @@ Wir programmieren einen Vokabelübersetzer in Fremdsprachen.
 |2.2|2.1|banane|If you want to stop type [stp] If you made a mistake type[ret] Word: |
 |2.3|2.1|Name einer bereits existierender Datei|"This file already exists"|
 |3.1|2.2, tree ---> |Buam|"Wrong!", tree --->|
-|3.2|2.2, tree ---> |3mal falsche Eingaben||
+|3.2|2.2, tree ---> |3mal falsche Eingaben|"The answer was: "Baum" press Enter to continue."|
+|||||
+
 
 
 ### 1.4 Diagramme
