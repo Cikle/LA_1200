@@ -87,7 +87,7 @@ Total:
 | 6.A  | 25.10 | Timo Goedertier  | 90min |  90min  |
 | 7.A  | 01.11 | Julius Burlet    | 45min |  45min  |
 | 8.A  | 01.11 | Julius Burlet    | 45min |  45min  |
-| 9.A  | 01.11 | Timo Goedertier  | 45min |  45min  |
+| 9.A  | 01.11 | Timo Goedertier  | 45min |  20min  |
 
 ## 5 Kontrollieren
 
