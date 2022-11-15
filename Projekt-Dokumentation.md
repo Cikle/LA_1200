@@ -19,28 +19,25 @@ Wir programmieren einen Vokabelübersetzer in Fremdsprachen.
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |  Muss               |Randbedingung   | Das Programm wird in C# geschrieben.|
-| 2    |  Muss               |Funktional      | Als ein User möchte ich, dass ich das Wort erneut eingeben kann, wenn meine Antwort falsch ist. |     
-| 3    |  Muss               |Funktional      | Als ein User möchte ich, dass ich nicht nur von Deutsch zu Fremdsprache, sondern auch umgekehrt übersetzen kann.|
-|4|Muss|Funktional|Als User möchte ich meine Wörterliste erstellen können und als datei gespeichert haben.|
-|5|Muss|Funktional|Als User möchte ich meine eigene Wörterliste in das Programm einfügen können und damit lernen.|
-| 6   |  Muss               |Qualität        | Als ein User möchte ich, dass bei 3 gescheiterten Versuchen automatisch die richtige Lösung erscheint. |   
-| 7    |  Kann               |Funktional      | Als ein User möchte ich, dass ich, sobald ich alle Wörter übersetzt habe, meinen Score sehen kann. |
-|8|Muss|Funktional|Ich möchte als User die Datei bearbeiten können wenn sie eingelesen wurde.|
-
+|1|Muss|Funktional|Als User möchte ich meine eigene Wörterliste in das Programm einfügen können und damit lernen.|
+|2|Muss|Funktional|Als User möchte ich meine Wörterliste erstellen können und als datei gespeichert haben.|
+|3|Muss|Funktional| Als ein User möchte ich, dass ich das Wort erneut eingeben kann, wenn meine Antwort falsch ist. |     
+|4|Muss|Funktional| Als ein User möchte ich, dass ich nicht nur von Haupt zu Fremdsprache, sondern auch umgekehrt übersetzen kann.|
+|5|Muss|Qualität|Als ein User möchte ich, dass bei 3 gescheiterten Versuchen automatisch die richtige Lösung erscheint. |   
+|6|Kann|Funktional| Als ein User möchte ich, dass ich, sobald ich alle Wörter übersetzt habe, meinen Score sehen kann. |
+|7|Kann|Funktional|Ich möchte als User die Datei bearbeiten können wenn sie eingelesen wurde.|
+|8|Muss|Randbedingung|Das Programm wird in C# geschrieben.|
 
 ### 1.3 Testfälle
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  | Das Programm ist gestartet und fragt den User nach der ausgewählten Sprache |Englisch |   |
-| 2.1  | Das Programm fragt den User nach einer erneuten Eingabe | Tabe | Bitte geben Sie das Wort erneut ein |       
-| 3.1  | Das Programm wechselt von Deutsch-Englisch zu Englisch-Deutsch| Umkehren | Die Sprache wurde umgekehrt |       
-| 4.1  | Das Programm hat 3 fehleingaben bekommen | Tabe Tabl taleb  | Die Richtige Eingabe währe : Table   |
-| 5.1  | Das Programm wird in C# geschrieben |         |                   |
-| 6.1  | Das Programm gibt einen Score aus    | Table  | Ihr derzeitiger score liegt bei ....|
-| 7.1  | Das Programm fragt ob der User nochmal spielen will   |  ja/nein  |  Wollen Sie erneut spielen?  |
-|      |              |         |                   |
+|1.1|Programm ist gestartet|Dateipfad zum Ordner|Inhalt des Ordners mit Zahlen|
+|1.2|1.1|2|Auswahl der verschiedenen Varianten, wie man übersetzen möchte.|
+|1.3|1.1|>max zahl angezeigt|Type a number between 1 and (anz dateien) or [new]|
+|2.1|1.1|new|Give your file a name: |
+|2.2|2.1|banane|If you want to stop type [stp] If you made a mistake type[ret] Word: |
+|2.3|2.2|sda|asd|
 
 
 ### 1.4 Diagramme
