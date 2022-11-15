@@ -1,5 +1,6 @@
+
 # Lern-Bericht
-✍️ ggf. Ihr Gruppenname und Ihre Gruppenmitglieder
+Team Chameleon (Lutzuger, Goedetiere, Burlet, Lucena, Veljkovic)
 
 ## Einleitung
 
@@ -22,7 +23,7 @@
 
 ✍️ Erklären Sie kurz und bündig, inwiefern die von Ihnen verwendeten Medien zeigen, was Sie gelernt haben.
 
-# Reflexion zum Arbeitsprozess
+# Reflektion zum Arbeitsprozess
 
 👍 Überlegen Sie sich jeweils etwas, was gut an Ihrer Arbeit lief; 
 
