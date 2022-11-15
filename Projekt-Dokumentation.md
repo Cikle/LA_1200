@@ -7,7 +7,7 @@ Cyril Lutziger, Simon Veljkovic, Samuel Lucena, Julius Burlet, Timo Goedertier
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
 | 25.10.2022      | 0.0.1        | Projekt wird gestartet                        |
-|     |         |                                                              |
+| 01.11.2022      | 0.0.2        |                                                              |
 
 ## 1 Informieren
 
