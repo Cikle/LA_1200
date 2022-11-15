@@ -35,11 +35,16 @@ Wir programmieren einen Vokabelübersetzer in Fremdsprachen.
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
 |1.1|Programm ist gestartet|Dateipfad zum Ordner|Inhalt des Ordners mit Zahlen|
-|1.2|1.1|2|Auswahl der verschiedenen Varianten, wie man übersetzen möchte.|
-|1.3|1.1|>max zahl angezeigt|Type a number between 1 and (anz dateien) or [new]|
+|1.2|Programm ist gestartet|Kein Pfad zu einer Datei|"Please writedown a valid directory Path"|
+|1.3|Programm ist gestartet|Genauer Dateipfad(mit existierender Datei)|Auswahl der verschiedenen Varianten, wie man übersetzen möchte.|
+|1.4|1.1|2|Auswahl der verschiedenen Varianten, wie man übersetzen möchte.|
+|1.5|1.1|>max zahl angezeigt|Type a number between 1 and (anz dateien) or [new]|
 |2.1|1.1|new|Give your file a name: |
 |2.2|2.1|banane|If you want to stop type [stp] If you made a mistake type[ret] Word: |
-|2.3|2.2|sda|asd|
+|2.3|2.1|Name einer bereits existierender Datei|"This file already exists"|
+|3.1|2.2, tree ---> |Buam|"Wrong!", tree --->|
+|3.2|2.2, tree ---> |3mal falsche Eingaben||
+|3.2|2.2, tree ---> |3mal falsche Eingaben|"The answer was: "Baum" press Enter to continue."|
 
 
 ### 1.4 Diagramme
