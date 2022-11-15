@@ -27,8 +27,7 @@ Wir programmieren einen Vokabelübersetzer in Fremdsprachen.
 |4|Muss|Funktional| Als ein User möchte ich, dass ich nicht nur von Haupt zu Fremdsprache, sondern auch umgekehrt übersetzen kann.|
 |5|Muss|Qualität|Als ein User möchte ich, dass bei 3 gescheiterten Versuchen automatisch die richtige Lösung erscheint. |   
 |6|Kann|Funktional| Als ein User möchte ich, dass ich, sobald ich alle Wörter übersetzt habe, meinen Score sehen kann. |
-|7|Kann|Funktional|Ich möchte als User die Datei bearbeiten können wenn sie eingelesen wurde.|
-|8|Muss|Randbedingung|Das Programm wird in C# geschrieben.|
+|7|Muss|Randbedingung|Das Programm wird in C# geschrieben.|
 
 ### 1.3 Testfälle
 
@@ -43,8 +42,9 @@ Wir programmieren einen Vokabelübersetzer in Fremdsprachen.
 |2.2|2.1|banane|If you want to stop type [stp] If you made a mistake type[ret] Word: |
 |2.3|2.1|Name einer bereits existierender Datei|"This file already exists"|
 |3.1|2.2, tree ---> |Buam|"Wrong!", tree --->|
-|3.2|2.2, tree ---> |3mal falsche Eingaben||
-|3.2|2.2, tree ---> |3mal falsche Eingaben|"The answer was: "Baum" press Enter to continue."|
+|4.1|1.3|1/2|tree --->|
+|5.1|2.2, tree ---> |3mal falsche Eingaben|"The answer was: "Baum" press Enter to continue."|
+|6.1|Letztes Wort wurde übersetzt|Enter|"You have x out of y Points."|
 
 
 ### 1.4 Diagramme
