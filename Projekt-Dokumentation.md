@@ -1,4 +1,5 @@
 
+
 # Projekt-Dokumentation
 
 
@@ -6,8 +7,8 @@ Cyril Lutziger, Simon Veljkovic, Samuel Lucena, Julius Burlet, Timo Goedertier
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-| 25.10.2022| 0.0.1 | Heute wurde uns das Projekt oder die Projekte vorgsetellt und wir haben unser Projekt ausgewählt und angefangen. Wir haben ein paar Userstories kriiert, das Github erstellt und ein PAP erstellt. Auch haben  wir haben die Aufgaben untereinander eingeteilt (Wer was macht). |
-| 01.11.2022| 0.0.2 | aufgaben von letzter Woche wurden erfüllt, und das Programm funktioniert. Es wurden auch neue Userstories geschrieben, so dass alle Programmieren.|
+| 25.10.2022| 0.0.1 | Heute wurde uns das Projekt oder die Projekte vorgestellt und wir haben unser Projekt ausgewählt und angefangen. Wir haben ein paar Userstories kreiert, das Github erstellt und ein PAP erstellt. Auch haben  wir  die Aufgaben untereinander eingeteilt (Wer was macht). |
+| 01.11.2022| 0.0.2 | Aufgaben von letzter Woche wurden erfüllt, und das Programm funktioniert. Es wurden auch neue Userstories geschrieben, sodass alle programmieren.|
 | 08.11.2022| 0.0.2 | Neue Userstories wurden geschrieben und auch erfüllt. Der Code des Programmes wurde verfeinert, und auch sind wir heute mit dem Programm fertig geworden, welches funktioniert und nutzbar ist|
 | 15.11.2022| 0.0.2 | An der Projekt-Dokumentation und dem Lernbericht wurde gearbeitet.|
 
@@ -22,7 +23,7 @@ Wir programmieren einen Vokabelübersetzer in Fremdsprachen.
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
 |1|Muss|Funktional|Als User möchte ich meine eigene Wörterliste in das Programm einfügen können und damit lernen.|
-|2|Muss|Funktional|Als User möchte ich meine Wörterliste erstellen können und als datei gespeichert haben.|
+|2|Muss|Funktional|Als User möchte ich meine Wörterliste erstellen können und als Datei gespeichert haben.|
 |3|Muss|Funktional| Als ein User möchte ich, dass ich das Wort erneut eingeben kann, wenn meine Antwort falsch ist. |     
 |4|Muss|Funktional| Als ein User möchte ich, dass ich nicht nur von Haupt zu Fremdsprache, sondern auch umgekehrt übersetzen kann.|
 |5|Muss|Qualität|Als ein User möchte ich, dass bei 3 gescheiterten Versuchen automatisch die richtige Lösung erscheint. |   
@@ -43,7 +44,7 @@ Wir programmieren einen Vokabelübersetzer in Fremdsprachen.
 |2.3|2.1|Name einer bereits existierender Datei|"This file already exists"|
 |3.1|2.2, tree ---> |Buam|"Wrong!", tree --->|
 |4.1|1.3|1/2|tree --->|
-|5.1|2.2, tree ---> |3mal falsche Eingaben|"The answer was: "Baum" press Enter to continue."|
+|5.1|2.2, tree ---> |3-mal falsche Eingaben|"The answer was: "Baum" press Enter to continue."|
 |6.1|Letztes Wort wurde übersetzt|Enter|"You have x out of y Points."|
 
 
@@ -114,3 +115,5 @@ Alle Tests verliefen genau nach Plan.
 ## 6 Auswerten
 
 [Lernbericht](https://github.com/Cikle/LA_1200/blob/main/Lernbericht.md)
+
+
