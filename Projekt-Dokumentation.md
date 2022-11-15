@@ -8,8 +8,8 @@ Cyril Lutziger, Simon Veljkovic, Samuel Lucena, Julius Burlet, Timo Goedertier
 | ----- | ------- | ------------------------------------------------------------ |
 | 25.10.2022| 0.0.1 | Heute wurde uns das Projekt oder die Projekte vorgsetellt und wir haben unser Projekt ausgewählt und angefangen. Wir haben ein paar Userstories kriiert, das Github erstellt und ein PAP erstellt. Auch haben  wir haben die Aufgaben untereinander eingeteilt (Wer was macht). |
 | 01.11.2022| 0.0.2 | aufgaben von letzter Woche wurden erfüllt, und das Programm funktioniert. Es wurden auch neue Userstories geschrieben, so dass alle Programmieren.|
-| 08.11.2022| 0.0.2 | Neue Userstories wurden geschrieben und auch erfüllt. Auch sind wir heute mit dem Programm fertig geworden, welches funktioniert und nutzbar ist|
-| 15.11.2022| 0.0.2 | |
+| 08.11.2022| 0.0.2 | Neue Userstories wurden geschrieben und auch erfüllt. Der Code des Programmes wurde verfeinert, und auch sind wir heute mit dem Programm fertig geworden, welches funktioniert und nutzbar ist|
+| 15.11.2022| 0.0.2 | An der Projekt-Dokumentation und dem Lernbericht wurde gearbeitet.|
 
 ## 1 Informieren
 
