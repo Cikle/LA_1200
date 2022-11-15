@@ -57,14 +57,15 @@ Wir programmieren einen Vokabelübersetzer in Fremdsprachen.
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  | 25.10 | Samuel Lucena    |  PAP         |  90min  |
+| 1.A  | 25.10 | Samuel Lucena    |  PAP         |  20min  |
 | 2.A  | 25.10 | Julius Burlet    |  Userstory 2 Wörterliste als Datei speichern|  90min  |
 | 3.A  | 25.10 | Cyril Lutziger   |  Userstory 3 Wiederholung des falschgeschriebenen Wortes|  90min  |
 | 4.A  | 25.10 | Simon Veljkovic  |  Userstory 4 Umkehrübersetzung |  120min |
-| 5.A  | 25.10 | Timo Goedertier  |  Userstory 5 lösung anzeigen|  90min  |
-| 6.A  | 01.11 | Julius Burlet    |  Userstory 6 Highscore anzeiger |  45min  |
-| 7.A  | 01.11 | Julius Burlet    | Fehlerbehebungen im Code |  45min  |
-| 8.A  | 01.11 | Julius Burlet    | Noch mehr fehlerbehebungen im Code |  45min  |
+| 5.A  | 01.11 | Julius Burlet    | Userstory 4 |  20min  |
+| 6.A  | 25.10 | Timo Goedertier  |  Userstory 5 lösung anzeigen|  90min  |
+| 7.A  | 01.11 | Julius Burlet    |  Userstory 6 Highscore anzeiger |  45min  |
+| 8.A  | 01.11 | Julius Burlet    | Fehlerbehebungen im Code |  45min  |
+| 9.A  | 01.11 | Timo Goedertier   | Noch mehr fehlerbehebungen im Code |  45min  |
 
 
 Total: 
@@ -78,14 +79,15 @@ Total:
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  | 25.10 | Samuel Lucena    |  PAP         |  90min  |
-| 2.A  | 25.10 | Julius Burlet    |  Userstory 2 Wörterliste als Datei speichern|  90min  |
-| 3.A  | 25.10 | Cyril Lutziger   |  Userstory 3 Wiederholung des falschgeschriebenen Wortes|  90min  |
-| 4.A  | 25.10 | Simon Veljkovic  |  Userstory 4 Umkehrübersetzung |  120min |
-| 5.A  | 25.10 | Timo Goedertier  |  Userstory 5 lösung anzeigen|  90min  |
-| 6.A  | 01.11 | Julius Burlet    |  Userstory 6 Highscore anzeiger |  45min  |
-| 7.A  | 01.11 | Julius Burlet    | Fehlerbehebungen im Code |  45min  |
-| 8.A  | 01.11 | Julius Burlet    | Noch mehr fehlerbehebungen im Code |  45min  |
+| 1.A  | 25.10 | Samuel Lucena    | 20min |  45min  |
+| 2.A  | 25.10 | Julius Burlet    | 90min |  90min  |
+| 3.A  | 25.10 | Cyril Lutziger   | 90min |  90min  |
+| 4.A  | 25.10 | Simon Veljkovic  | 120min|  120min |
+| 5.A  | 01.11 | Julius Burlet    | 20min |  30min  |
+| 6.A  | 25.10 | Timo Goedertier  | 90min |  90min  |
+| 7.A  | 01.11 | Julius Burlet    | 45min |  45min  |
+| 8.A  | 01.11 | Julius Burlet    | 45min |  45min  |
+| 9.A  | 01.11 | Timo Goedertier  | 45min |  45min  |
 
 ## 5 Kontrollieren
 
