@@ -4,11 +4,11 @@ Team Chameleon (Lutziger, Goedetier, Burlet, Lucena, Veljkovic)
 
 ## Einleitung
 
-In Unserem Projekt geht es darum, ein Program zu erstellen, mit dem man Voci von verschiedenen Sprachen lernen kann.
+In Unserem Projekt ging es darum, wie man Files in Codes einfügt.
 
 ## Was habe ich gelernt?
 
-Wir haben gelernt, wie man selber erstellte Files im Code einfügt. In diesem Projekt haben wir Files erstellt, welche Wörter auf Deutsch und Englisch
+Wir haben gelernt, wie man selber erstellte Files im Code einfügt. In diesem Projekt haben wir Files erstellt, welche Wörter auf Deutsch und Englisch beinhaltet und wir damit ein Übersetzungsprogramm erstellen können.
 
 ## Beschreibung
 
