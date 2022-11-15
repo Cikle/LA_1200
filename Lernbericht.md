@@ -1,14 +1,14 @@
 
 # Lern-Bericht
-Team Chameleon (Lutziger, Goedetier, Burlet, Lucena,  Simex Veljkovic)
+Team Chameleon (Lutziger, Goedetier, Burlet, Lucena, Veljkovic)
 
 ## Einleitung
 
 ✍️ Ein Satz, worum es in dem Projekt ging. Muss für einen externen Leser einfach zu verstehen sein.
 
 ## Was habe ich gelernt?
+Wir haben gelernt, wie man selber erstellte Files im Code einfügt. In diesem Projekt haben wir Files erstellt, welche Wörter auf Deutsch und Englisch 
 
-✍️ Beschreiben Sie in einem Satz **eine** Sache, die Sie bei diesem Projekt gelernt haben und die Sie in diesem Lern-Bericht dokumentieren.
 
 ## Beschreibung
 
