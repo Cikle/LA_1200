@@ -1,6 +1,6 @@
 
 # Lern-Bericht
-Team Chameleon (Lutzuger, Goedetiere, Burlet, Lucena, Veljkovic)
+Team Chameleon (Lutziger, Goedetiere, Burlet, Lucena,  Simex Veljkovic)
 
 ## Einleitung
 
