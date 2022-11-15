@@ -6,10 +6,10 @@ Cyril Lutziger, Simon Veljkovic, Samuel Lucena, Julius Burlet, Timo Goedertier
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-| 25.10.2022| 0.0.1 | Heute wurden uns oder die Projekte vorgestellt und wir haben unser Projekt ausgewählt und begonnen. Wir haben ein paar User Stories kreiert, die Dokumentation erstellt und ein PAP erstellt. Zudem haben wir haben die Aufgaben untereinander eingeteilt (Wer was macht). |
-| 01.11.2022| 0.0.2 | Aufgaben von letzter Woche wurden erfüllt, und das Programm funktioniert. Es wurden auch neue User Stories geschrieben, sodass alle programmieren können.|
-| 08.11.2022| 0.0.3 | Neue User Stories wurden geschrieben und auch erfüllt. Der Code des Programms wurde verfeinert, und wir sind heute mit dem Programm fertig geworden, welches funktioniert und nutzbar ist|
-| 15.11.2022| 1.0.0 | An der Projekt-Dokumentation und dem Lernbericht wurde gearbeitet.|
+| 25.10.2022| 0.0.1 | Heute wurde uns das Projekt oder die Projekte vorgsetellt und wir haben unser Projekt ausgewählt und angefangen. Wir haben ein paar Userstories kriiert, das Github erstellt und ein PAP erstellt. Auch haben  wir haben die Aufgaben untereinander eingeteilt (Wer was macht). |
+| 01.11.2022| 0.0.2 | aufgaben von letzter Woche wurden erfüllt, und das Programm funktioniert. Es wurden auch neue Userstories geschrieben, so dass alle Programmieren.|
+| 08.11.2022| 0.0.2 | Neue Userstories wurden geschrieben und auch erfüllt. Der Code des Programmes wurde verfeinert, und auch sind wir heute mit dem Programm fertig geworden, welches funktioniert und nutzbar ist|
+| 15.11.2022| 0.0.2 | An der Projekt-Dokumentation und dem Lernbericht wurde gearbeitet.|
 
 ## 1 Informieren
 
@@ -22,9 +22,9 @@ Wir programmieren einen Vokabelübersetzer in Fremdsprachen.
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
 |1|Muss|Funktional|Als User möchte ich meine eigene Wörterliste in das Programm einfügen können und damit lernen.|
-|2|Muss|Funktional|Als User möchte ich meine Wörterliste erstellen können und als Datei gespeichert haben.|
+|2|Muss|Funktional|Als User möchte ich meine Wörterliste erstellen können und als datei gespeichert haben.|
 |3|Muss|Funktional| Als ein User möchte ich, dass ich das Wort erneut eingeben kann, wenn meine Antwort falsch ist. |     
-|4|Muss|Funktional| Als ein User möchte ich, dass ich nicht nur von Hauptsprache zu Fremdsprache, sondern auch umgekehrt übersetzen kann.|
+|4|Muss|Funktional| Als ein User möchte ich, dass ich nicht nur von Haupt zu Fremdsprache, sondern auch umgekehrt übersetzen kann.|
 |5|Muss|Qualität|Als ein User möchte ich, dass bei 3 gescheiterten Versuchen automatisch die richtige Lösung erscheint. |   
 |6|Kann|Funktional| Als ein User möchte ich, dass ich, sobald ich alle Wörter übersetzt habe, meinen Score sehen kann. |
 |7|Muss|Randbedingung|Das Programm wird in C# geschrieben.|
@@ -34,7 +34,7 @@ Wir programmieren einen Vokabelübersetzer in Fremdsprachen.
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
 |1.1|Programm ist gestartet|Dateipfad zum Ordner|Inhalt des Ordners mit Zahlen|
-|1.2|Programm ist gestartet|Kein Pfad zu einer Datei|"Please write down a valid directory Path"|
+|1.2|Programm ist gestartet|Kein Pfad zu einer Datei|"Please writedown a valid directory Path"|
 |1.3|Programm ist gestartet|Genauer Dateipfad(mit existierender Datei)|Auswahl der verschiedenen Varianten, wie man übersetzen möchte.|
 |1.4|1.1|2|Auswahl der verschiedenen Varianten, wie man übersetzen möchte.|
 |1.5|1.1|>max zahl angezeigt|Type a number between 1 and (anz dateien) or [new]|
@@ -57,14 +57,15 @@ Wir programmieren einen Vokabelübersetzer in Fremdsprachen.
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-|      |       |           |              |               |
-|      |       |           |              |               |
-|      |       |           |              |               |
-|      |       |           |              |               |
-|      |       |           |              |               |
-|      |       |           |              |               |
-|      |       |           |              |               |
-|      |       |           |              |               |
+| 1.A  | 25.10 | Samuel Lucena    |  PAP         |  90min  |
+| 2.A  | 25.10 | Julius Burlet    |  Userstory 2 Wörterliste als Datei speichern|  90min  |
+| 3.A  | 25.10 | Cyril Lutziger   |  Userstory 3 Wiederholung des falschgeschriebenen Wortes|  90min  |
+| 4.A  | 25.10 | Simon Veljkovic  |  Userstory 4 Umkehrübersetzung |  120min |
+| 5.A  | 25.10 | Timo Goedertier  |  Userstory 5 lösung anzeigen|  90min  |
+| 6.A  | 01.11 | Julius Burlet    |  Userstory 6 Highscore anzeiger |  45min  |
+| 7.A  | 01.11 | Julius Burlet    | Fehlerbehebungen im Code |  45min  |
+| 8.A  | 01.11 | Julius Burlet    | Noch mehr fehlerbehebungen im Code |  45min  |
+
 
 Total: 
 
@@ -77,14 +78,14 @@ Total:
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |               |                   |
-| 2.A  |       |           |               |                   |
-| 3.A  |       |           |               |                   |
-| 4.A  |       |           |               |                   |
-| 5.A  |       |           |               |                   |
-| 6.A  |       |           |               |                   |
-| 7.A  |       |           |               |                   |
-| 8.A  |       |           |               |                   |
+| 1.A  | 25.10 | Samuel Lucena    |  PAP         |  90min  |
+| 2.A  | 25.10 | Julius Burlet    |  Userstory 2 Wörterliste als Datei speichern|  90min  |
+| 3.A  | 25.10 | Cyril Lutziger   |  Userstory 3 Wiederholung des falschgeschriebenen Wortes|  90min  |
+| 4.A  | 25.10 | Simon Veljkovic  |  Userstory 4 Umkehrübersetzung |  120min |
+| 5.A  | 25.10 | Timo Goedertier  |  Userstory 5 lösung anzeigen|  90min  |
+| 6.A  | 01.11 | Julius Burlet    |  Userstory 6 Highscore anzeiger |  45min  |
+| 7.A  | 01.11 | Julius Burlet    | Fehlerbehebungen im Code |  45min  |
+| 8.A  | 01.11 | Julius Burlet    | Noch mehr fehlerbehebungen im Code |  45min  |
 
 ## 5 Kontrollieren
 
