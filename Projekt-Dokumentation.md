@@ -101,10 +101,4 @@ Total:
 
 
 
-### 5.2 Exploratives Testen
-
-| BR-№ | Ausgangslage | Eingabe | Erwartete Ausgabe | Tatsächliche Ausgabe |
-| ---- | ------------ | ------- | ----------------- | -------------------- |
-| 1    |              |         |                   |                      |
-
 ## 6 Auswerten
