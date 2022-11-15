@@ -196,23 +196,18 @@ class MakeList
         }
     }
 ```
+Ein Teil des Codes zeigt an, wo das File zu finden ist. Das Programm überprüft, ob es eine Datei mit dem gleichen Namen bereits gibt. Daraufhin sucht das Programm nach dem Speicherort des Files und lädt dann die entsprechenden Files hoch. Anschliessend kann man zwischen den bestehenden Files sich eine aussuchen und das Programm läuft nach den entsprechenden Daten ab.
 
 
-✍️ Verwenden Sie drei verschiedene Medien, um zu zeigen, was Sie gelernt haben. Zum Beispiel:
-
-* Eine textliche Beschreibung
-* Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
-* Ein gut dokumentierter Code-Fetzen
-* Ein Link zu einem *selbst aufgenommenen* youtube-Video oder `.gif`.
 
 ## Verifikation
 
-✍️ Erklären Sie kurz und bündig, inwiefern die von Ihnen verwendeten Medien zeigen, was Sie gelernt haben.
+Text: Fasst die wichtigsten Teile des Codes und die Zusammenhänge zwischen ihnen zusammen.
+Code Snippet: Stellt alle Begrifflichkeiten und Funktionen des Codes dar.
 
 # Reflektion zum Arbeitsprozess
 
-👍 Überlegen Sie sich jeweils etwas, was gut an Ihrer Arbeit lief; 
+Was gut lief: Wir konnten ziemlich schnell alle Punkte abarbeiten und uns sehr einfach an unsere Pläne halten.
+Was nicht gut lief: Da zu Beginn des Projekts zwei Leute gefehlt haben, enstanden sehr schnell Konflikte, wodurch wir sehr verspätet angefangen haben zu programmieren.
 
-👎 und etwas, was nicht gut lief.
-
-**VBV**: ✍️ Formulieren Sie davon ausgehend einen *handelbaren* Verbesserungsvorschlag.
+**VBV**: Wir sollten das nächste Mal besser untereinander kommunizieren und bei Aufteilungen und Meinungen besseres Management anwenden.
