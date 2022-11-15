@@ -198,6 +198,7 @@ class MakeList
 ```
 Ein Teil des Codes zeigt an, wo das File zu finden ist. Das Programm überprüft, ob es eine Datei mit dem gleichen Namen bereits gibt. Daraufhin sucht das Programm nach dem Speicherort des Files und lädt dann die entsprechenden Files hoch. Anschliessend kann man zwischen den bestehenden Files sich eine aussuchen und das Programm läuft nach den entsprechenden Daten ab.
 
+![image](https://user-images.githubusercontent.com/110893302/201889006-00824f8f-9046-4a18-8c28-02f18f114c9e.png)
 
 
 ## Verifikation
