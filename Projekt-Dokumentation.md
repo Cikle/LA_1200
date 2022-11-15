@@ -112,3 +112,5 @@ Alle Tests verliefen genau nach Plan.
 
 
 ## 6 Auswerten
+
+[Lernbericht](https://github.com/Cikle/LA_1200/blob/main/Lernbericht.md)
