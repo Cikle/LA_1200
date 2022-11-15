@@ -35,7 +35,7 @@
             }
             asking.DisplayPoints();
 
-
+            //Testing if Simon sees this
         }
     }
 }
