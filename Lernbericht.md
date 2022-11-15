@@ -1,10 +1,10 @@
 
 # Lern-Bericht
-Team Chameleon (Lutziger, Goedetier, Burlet, Lucena,  Simex  der Babo Veljkovic)
+Team Chameleon (Lutziger, Goedetier, Burlet, Lucena, Veljkovic)
 
 ## Einleitung
 
-In Unserem Projekt ging es darum, 
+In Unserem Projekt geht es darum, ein Program zu erstellen, mit dem man Voci von verschiedenen Sprachen lernen kann.
 
 ## Was habe ich gelernt?
 
